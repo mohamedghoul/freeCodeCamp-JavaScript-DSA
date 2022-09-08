@@ -1,5 +1,5 @@
 # freeCodeCamp-JavaScript-DSA
-This repository contains my answers to the certification projects for freeCodeCamp's JavaScript Data Structures and Algorithms certification.
+This repository contains my answers to the certification projects for freeCodeCamp's JavaScript Algorithms and Data Structures certification.
 
 ## 1. Palindrome Checker
 In this project, I used my knowledge of array functions and regular expressions to check if an input string is spelled the same backwards. In order to achieve this, I converted the string to lowercase form using built-in functions and removed any non-alphanumeric characters using the array replace function and regular expressions. Then, I proceeded to compare this newly formatted string with its reversed version and return the result.
